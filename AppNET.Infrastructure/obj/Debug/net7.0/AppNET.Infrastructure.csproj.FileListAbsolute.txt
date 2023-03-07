@@ -1,0 +1,12 @@
+C:\Users\SENGUR\OneDrive\Masaüstü\AppNet\AppNet\AppNET.Infrastructure\bin\Debug\net7.0\AppNET.Infrastructure.deps.json
+C:\Users\SENGUR\OneDrive\Masaüstü\AppNet\AppNet\AppNET.Infrastructure\bin\Debug\net7.0\AppNET.Infrastructure.dll
+C:\Users\SENGUR\OneDrive\Masaüstü\AppNet\AppNet\AppNET.Infrastructure\bin\Debug\net7.0\AppNET.Infrastructure.pdb
+C:\Users\SENGUR\OneDrive\Masaüstü\AppNet\AppNet\AppNET.Infrastructure\obj\Debug\net7.0\AppNET.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\SENGUR\OneDrive\Masaüstü\AppNet\AppNet\AppNET.Infrastructure\obj\Debug\net7.0\AppNET.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENGUR\OneDrive\Masaüstü\AppNet\AppNet\AppNET.Infrastructure\obj\Debug\net7.0\AppNET.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\SENGUR\OneDrive\Masaüstü\AppNet\AppNet\AppNET.Infrastructure\obj\Debug\net7.0\AppNET.Infrastructure.AssemblyInfo.cs
+C:\Users\SENGUR\OneDrive\Masaüstü\AppNet\AppNet\AppNET.Infrastructure\obj\Debug\net7.0\AppNET.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\SENGUR\OneDrive\Masaüstü\AppNet\AppNet\AppNET.Infrastructure\obj\Debug\net7.0\AppNET.Infrastructure.dll
+C:\Users\SENGUR\OneDrive\Masaüstü\AppNet\AppNet\AppNET.Infrastructure\obj\Debug\net7.0\refint\AppNET.Infrastructure.dll
+C:\Users\SENGUR\OneDrive\Masaüstü\AppNet\AppNet\AppNET.Infrastructure\obj\Debug\net7.0\AppNET.Infrastructure.pdb
+C:\Users\SENGUR\OneDrive\Masaüstü\AppNet\AppNet\AppNET.Infrastructure\obj\Debug\net7.0\ref\AppNET.Infrastructure.dll
