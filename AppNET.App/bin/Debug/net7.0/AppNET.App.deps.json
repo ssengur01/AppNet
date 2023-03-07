@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AppNET.App/1.0.0": {
+        "dependencies": {
+          "AppNET.Domain": "1.0.0",
+          "AppNET.Infrastructure": "1.0.0",
+          "AppNET.Infrastructure.IOToTXT": "1.0.0"
+        },
+        "runtime": {
+          "AppNET.App.dll": {}
+        }
+      },
+      "AppNET.Domain/1.0.0": {
+        "runtime": {
+          "AppNET.Domain.dll": {}
+        }
+      },
+      "AppNET.Infrastructure/1.0.0": {
+        "runtime": {
+          "AppNET.Infrastructure.dll": {}
+        }
+      },
+      "AppNET.Infrastructure.IOToTXT/1.0.0": {
+        "dependencies": {
+          "AppNET.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AppNET.Infrastructure.IOToTXT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppNET.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AppNET.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AppNET.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AppNET.Infrastructure.IOToTXT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

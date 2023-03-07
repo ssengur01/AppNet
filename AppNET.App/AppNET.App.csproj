@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AppNet.Domain\AppNET.Domain.csproj" />
+    <ProjectReference Include="..\AppNET.Infrastructure.IOTo.TXT\AppNET.Infrastructure.IOToTXT.csproj" />
+    <ProjectReference Include="..\AppNET.Infrastructure\AppNET.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
