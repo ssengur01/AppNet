@@ -7,9 +7,13 @@ using System.Threading.Tasks;
 
 namespace AppNET.Domain.Entities
 {
-    public sealed class Category:BaseEntity
+    public class Case:BaseEntity
     {
-        public string Name { get; set; }
-        public ICollection<Product> Products { get; set; }
+        public decimal Price { get; set; }
+
+        public DateTime ProcessDate { get; set; } = DateTime.Now;
+
+        public string Explanation { get; set; }
+
     }
 }

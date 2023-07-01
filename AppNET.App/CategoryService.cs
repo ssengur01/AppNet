@@ -1,7 +1,7 @@
 ﻿using AppNET.Domain.Entities;
 using System;
 using System.Collections.Generic;
-using System.Linq;
+using System.Linq;    
 using System.Text;
 using System.Threading.Tasks;
 using AppNET.Infrastructure.IOToTXT;
@@ -43,6 +43,14 @@ namespace AppNET.App
         {
             return _repository.GetList().ToList().AsReadOnly();
         }
+        public Category GetById(int id)
+        {
+            return _repository.GetList().FirstOrDefault(c => c.Id == id);
+        }
+        public int GetIdFromName(string categoryName)
+        {
+            return _repository.GetList().FirstOrDefault(c => c.Name == categoryName).Id;
+        }
 
         public Category Update(int categoryId, string newCategoryName)
         {
@@ -53,6 +61,7 @@ namespace AppNET.App
             category.Id = categoryId;
             category.Name = newCategoryName.ToUpper(); 
             return _repository.Update(categoryId, category);
+            
         }
     }
 }
